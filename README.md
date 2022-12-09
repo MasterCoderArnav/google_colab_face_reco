@@ -9,6 +9,7 @@ Execution:
 2. Open ai_proctoring_proj.ipynb
 3. Click on "Open in Colab" (Button on top of code)
 4. Run all the code snippets strictly in order (top to bottom)
+5. Put a recent image of yourself in known folder of darknet to utilise the face_recognition function
 
 Made by:
 Arnav Tripathi - 2020A7PS0082P
